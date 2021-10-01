@@ -1,37 +1,32 @@
-# Topic Title
+# About Me
 
-![](url for an image about your topic)
+I'm currently a senior year student major in **Geography Data Science** in the _University of Washington_.
 
-A short description / abstract of the topic you choose. For the text here and below, feel free to use **bold** and _italic_ fonts, [linked texts](url), ![images](url), or any other element you think would be helpful for your audience to understand the topic.
+![uw](https://images.unsplash.com/photo-1562349275-f5e7360af2dd?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=774&q=80)
 
-## Section 1
+## Role
 
-One or several paragraphs.
+I'm a web/mobile/GIS developer based in Seattle, Washington.
 
-## Section 2
+## Interests
 
-One or several paragraphs.
+Fascinated by web development and always interested in exploring various ways to approach solutions.
 
-### (Optional) Subsection 1
+## Technologies
 
-One or several paragraphs.
+### Languages
 
-### (Optional) Subsection 2
+- HTML5
+- CSS3
+- Javascript ES6+
 
-One or several paragraphs.
+### Frameworks
 
-## Section 3
+- React
+- React Native
 
-One or several paragraphs for subsection 3.
+## Come say hi
 
-## See also
-
-- [Resource 1](url)
-- [Resource 2](url)
-- [Resource 3](url)
-
-## References
-
-1. Reference 1
-2. Reference 2
-3. Reference 3
+- [Github](https://github.com/zhuxiaoyu1019)
+- [Portfolio](https://ritaz.herokuapp.com/)
+- [Email](xiaoyz28@uw.edu)
